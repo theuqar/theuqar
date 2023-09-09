@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @theuqar
+- 👀 I’m interested in coding lua ...
+- 🌱 I’m currently learning how to code ...
+- 📫 How to reach me on discord my tag: (th1quar) ...
+
+<!---
+theuqar/theuqar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to  a ltakeook at your changes.
+--->
